@@ -125,9 +125,11 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 		<div class="row footer_grids pt-lg-3">
 			<div class="col-lg-5 footer_left">
 				<h3 class="mb-sm-4 mb-3">About DeliPack</h3>
-				<p>Nulla felis tortor, rutrum eget feugiat enon, blandit tellus. Nam pharetra ipsum ligula volutpat, a finibus.
-				Fuscet sed malesuada sollicitudin venenatis. Aenean aculis faucibus iaculis. Donec finibus est sit amet mi ultrices,
-				id fringilla mauris efficitur. In eu enim quis nulla iaculis tempus.</p>
+				<p>Dedicated is how we describe ourselves. 
+					A bunch of technology enthusiasts and marketing strategists with the aim of 
+					adding value to every delivery business (big or small) in Ghana. 
+					Working with us will be the most amazing journey you can embark on as a business person. 
+					</p>
 			</div>
 			<div class="col-lg-3 col-md-6 mt-lg-0 mt-sm-5 mt-4 footer_right">
 				<h3 class="mb-sm-4 mb-3">Contact Us</h3>
@@ -142,7 +144,13 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 					<li class="mr-3"><a href="#">Android Users <span class="fa ml-1 fa-android"></span></a></li>
 					<li><a href="#">IOS Users <span class="fa ml-1 fa-apple"></span></a></li>
 				</ul>
+				<div class="socialhandles">
+						<a href="http://instagram.com/_u/delivpack/" target="_blank"><img src="{{asset('images/instagram.png')}}" width="50px" alt=""></a>
+						<a href="//facebook.com/delipack" target="_blank"><img src="{{asset('images/facebook.png')}}" width="50px" alt=""></a>
+						<a href="https://twitter.com/delivpack" target="_blank"><img src="{{asset('images/twitter.png')}}"  width="50px" alt=""></a>
+				</div>
 			</div>
+			
 		</div>
 		<!-- move top -->
 		<div class="move-to-top text-center mt-3">
