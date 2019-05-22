@@ -116,8 +116,52 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 <!---728x90--->
 
 <!-- about -->
-<section class="about py-sm-5 py-4" id="about">
-	<div class="container py-lg-5">
+<section class="deliabout py-sm-5 py-4" id="about">
+	<div>
+		<div class="container">
+				<div class="about-grids">
+						<div class="col-lg-12">
+							<h6 class="mt-4">Be your own boss</h6>
+							<h4 class="mt-3">Become a trusted delivery service in  Your City With DeliPack</h4>
+							<p class="mt-sm-4 mt-3">We are providing you with a vibrant and state of the art platform to make your product/service readily available to a wider audience. No need to worry about advertisement. DeliPack is aimed at making your company known to every busy/idle person in Ghana.</p>
+							<p class="mt-sm-4 mt-3">Why worry about paper work, when delipack is providing you with a safe, secure and easy to use platform. In just some few simple steps, delipack is giving you the power to control your business from the comfort of your home or office.</p>
+						</div>
+				</div>
+		</div>
+	</div>
+
+
+	<div>
+			<div class="container">
+					<div class="about-grids">
+							<div class="padding">
+								<form action="#" method="post">
+									<h5 class="mb-3">Request our service</h5>
+									<div class="form-style-agile">
+										<input placeholder="Name" name="name" type="text" required="">
+										<input placeholder="Phone Number" name="number" type="text" required="">
+										<input placeholder="Source(From)" type="text" required="">
+										<input placeholder="Destination(To)" type="text" required="">
+										<select>
+											<option value="0">Choose Vehicle</option>
+											<option value="1">Vehicle1</option>
+											<option value="2">Vehicle2</option>
+											<option value="3">Vehicle3</option>
+											<option value="3">Vehicle4</option>
+											<option value="3">Vehicle5</option>
+										</select>
+										<!-- <input placeholder="Password" name="password" type="password" required=""> -->
+										<button class="book-btn btn">Book Now</button>
+									</div>
+								</form>
+							</div>
+					</div>
+			</div>
+	</div>
+	<div>
+		<img src="images/laptop1.jpeg" width="100%" alt="" class="img-fluid"/>
+	</div>
+	<!-- <div class="container py-lg-5">
 		<div class="row about-grids">
 			<div class="col-lg-5">
 				<h6 class="mt-4">Be your own boss</h6>
@@ -142,17 +186,17 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 							  <option value="3">Vehicle4</option>
 							  <option value="3">Vehicle5</option>
 							</select>
-							<!--<input placeholder="Password" name="password" type="password" required=""> -->
+							<input placeholder="Password" name="password" type="password" required="">
 							<button class="book-btn btn">Book Now</button>
 						</div>
 					</form>
 				</div>
 			</div>
-			<div class="col-lg-3 col-md-6 mt-4">
-				<img src="images/about.jpg" alt="" class="img-fluid"/>
+			<div class="col-lg-4 col-md-6 mt-4">
+				<img src="images/phone.png" width="80%" alt="" class="img-fluid"/>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </section>
 <!-- //about -->
 <!---728x90--->
@@ -304,7 +348,7 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 				</div>
 			</div>
 			<div class="col-lg-3 offset-lg-2 col-md-4 col-sm-6 col-8 app-img text-right">
-				<img src="images/mobile.png" alt=" " class="img-fluid">
+				<img src="images/phone.png" width="100%" alt=" " class="img-fluid">
 			</div>
 			<!--//mobile-app -->
 		</div>
