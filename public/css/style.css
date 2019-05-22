@@ -891,9 +891,9 @@ a.move-top span {
 }
 
 .introsection > div{
-	width: 50%;
+	width: 700px;
 	height: inherit;
-	padding: 30px;
+	padding: 10px;
 }
 
 .introsection > div p {
@@ -919,7 +919,7 @@ a.move-top span {
 }
 
 .whysection > div{
-	width: 50%;
+	width: 700px;
 	height: inherit;
 }
 
@@ -939,14 +939,33 @@ a.move-top span {
 .dedicatesection {
 	display: flex;
 	flex-flow: wrap;
-	justify-content: center;
 	width:100%;
+	justify-content: center;
+	align-items: center;
 }
 
 .dedicatesection > div{
-	width: 50%;
+	width: 700px;
 	height: inherit;
 	padding: 30px;
+	justify-content: center;
+	align-items: center;
+}
+
+.introsecondsection {
+	display: flex;
+	width: 100%;
+}
+
+.introsecondsection > div {
+	padding: 30px;
+	width: 100%;
+}
+
+.introsecondsection > div p {
+	font-family: sans-serif;
+	font-weight: lighter;
+	line-height: 40px;
 }
 
 .dedicatesection > div p {
