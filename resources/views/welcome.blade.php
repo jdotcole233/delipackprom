@@ -67,20 +67,7 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125810435-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-125810435-1');
-</script><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','../../../../../../../www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-30027142-1', 'w3layouts.com');
-  ga('send', 'pageview');
-</script>
 <body>
 <!-- //header -->
 <header class="delipacknav">
@@ -98,10 +85,10 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 			<input type="checkbox" id="drop" />
 			<ul class="menu mt-md-2 ml-auto">
 				<li class="mr-lg-4 mr-2 active"><a href="index.html">Home</a></li>
-				<li class="mr-lg-4 mr-2"><a href="#about">About Us</a></li>
-				<li class="mr-lg-4 mr-2"><a href="#services">Services</a></li>
-				<li class="mr-lg-4 mr-2"><a href="#tarrifs">Our Partners</a></li>
-				<li class="mr-lg-4 mr-2"><a href="#stats">Contact Us</a></li>
+				<li class="mr-lg-4 mr-2"><a href="">About Us</a></li>
+				<li class="mr-lg-4 mr-2"><a href="">Services</a></li>
+				<li class="mr-lg-4 mr-2"><a href="">Our Partners</a></li>
+				<li class="mr-lg-4 mr-2"><a href="">Contact Us</a></li>
 				<!-- <li class="mr-lg-4 mr-2"><a href="#app">App Download</a></li> -->
 			</ul>
 		</nav>
@@ -305,13 +292,13 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 		<div class="row inner-sec-wthree-agileits">
 			<div class="col-lg-7 pt-lg-5 app-info text-left">
 				<h3 class="tittle mob pb-sm-4">Download the Mobile App for free <br>Get More Exciting Offers</h3>
-				<p class="para_vl">Nam arcu mauris, tincidunt sed convallis non, egestas ut lacus. Cras sapien urna, malesuada ut varius consequat, hendrerit nisl. Aliquam vestibulum, odio non ullamcorper malesuada totam rem aperiam, eaque ipsa quae.</p>
+				<p class="para_vl">Customers can download the delipack app from App Store and Google play respectively to enjoy exciting offers</p>
 				<div class="app-devices">
 					<a href="#" class="mr-3">
-						<img src="images/app.png" alt="">
+						<img src="images/comingsoonapple.png" width="30%" alt="">
 					</a>
 					<a href="#">
-						<img src="images/app1.png" alt="">
+						<img src="images/android-coming-soon.png" width="30%" alt="">
 					</a>
 					<div class="clearfix"> </div>
 				</div>
@@ -356,13 +343,11 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 		</div>
 		<!-- //move top -->
 		<div class="copyright text-center mt-3">
-			<p>© 2019 Taxi Drive. All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts</a> </p>
+			<p>© 2019 DeliPack. All Rights Reserved  </p>
 		</div>
 	</div>
 </footer>
 <!-- //footer -->
 
 </body>
-
-<!-- Mirrored from demo.w3layouts.com/demos_new/template_demo/02-02-2019/taxi_drive-demo_Free/641760209/web/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 May 2019 13:49:20 GMT -->
 </html>
