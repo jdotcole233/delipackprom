@@ -14,21 +14,11 @@
 <meta charset="utf-8">
 <meta name="keywords" content="Become your own boss, delipack, DeliPack, delivpack, DelivPack, Quick pick up and delivery,
 courier service, Ghana motor riders delivery, courier companies, best delivery platform" />
-
-    <script>
-        addEventListener("load", function () {
-            setTimeout(hideURLbar, 0);
-        }, false);
-
-        function hideURLbar() {
-            window.scrollTo(0, 1);
-        }
-    </script>
 	
 	<!-- css files -->
-    <link href="css/bootstrap.css" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
-    <link href="css/style.css" rel='stylesheet' type='text/css' /><!-- custom css -->
-	<link href="css/font-awesome.min.css" rel="stylesheet"><!-- fontawesome css -->
+    <link href="{{asset('css/bootstrap.css')}}" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
+    <link href="{{asset('css/style.css')}}" rel='stylesheet' type='text/css' /><!-- custom css -->
+	<link href="{{asset('css/font-awesome.min.css')}}" rel="stylesheet"><!-- fontawesome css -->
 	<link href="{{asset('css/delipackstyle.css')}}" rel="stylesheet">
 	<!-- //css files -->
 	
