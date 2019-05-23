@@ -3,7 +3,7 @@
 
 <section class="delipackservices">
         <div>
-          <img src="{{asset('images/comingsoon.png')}}" alt="">
+          <img src="{{asset('images/Underconst.png')}}" alt="">
         </div>
 </section>
 
