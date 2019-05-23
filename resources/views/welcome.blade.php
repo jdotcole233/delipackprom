@@ -16,7 +16,7 @@
 	</div>
 
 
-	<div>
+	<div id="requestservice">
 			<div class="container">
 					<div class="about-grids">
 							<div class="padding">
@@ -197,14 +197,16 @@
 <!-- //stats -->
 
 <!-- call us -->
-<section class="customer-call">
+<section class="customer-call" id="customercall">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 py-sm-5 py-4 mt-3">
 				<h4 class="mt-2">24 Hours 7 Days a Week</h4>
 				<p>Call Us Now</p>
 				<h2><span class="fa mr-1 fa-phone"></span> +233 503 848404</h2>
-				<p class="mt-4">Setting up your business with DeliPack is quick and easy. You manage your own business without intrusion.</p>
+				<p class="mt-4">Call to set up a meeting or <a href="#requestservice" ><b>Request DeliPack for your company</b></a>. An agent from Delipack will get intouch
+				to make further arrangment with you.</p>
+				<p class="mt-4"><a href="{{url('aboutdelipack')}}"> Read about us</a></p>
 			</div>		
 			<div class="col-lg-3 offset-lg-1 col-md-4 col-sm-6 col-8 pt-md-5 mt-lg-3">
 				<img src="images/agent-18762.png" alt="">

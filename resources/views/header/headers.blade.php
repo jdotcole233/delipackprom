@@ -28,7 +28,8 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 	<!-- css files -->
     <link href="css/bootstrap.css" rel='stylesheet' type='text/css' /><!-- bootstrap css -->
     <link href="css/style.css" rel='stylesheet' type='text/css' /><!-- custom css -->
-    <link href="css/font-awesome.min.css" rel="stylesheet"><!-- fontawesome css -->
+	<link href="css/font-awesome.min.css" rel="stylesheet"><!-- fontawesome css -->
+	<link href="{{asset('css/delipackstyle.css')}}" rel="stylesheet">
 	<!-- //css files -->
 	
 	<!-- google fonts -->
@@ -38,34 +39,8 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 </head>
 <body>
 <script src='../../../../../../../ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src="../../../../../../../m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
-<script>
-(function(){
-	if(typeof _bsa !== 'undefined' && _bsa) {
-  		// format, zoneKey, segment:value, options
-  		_bsa.init('flexbar', 'CKYI627U', 'placement:w3layoutscom');
-  	}
-})();
-</script>
-<script>
-(function(){
-if(typeof _bsa !== 'undefined' && _bsa) {
-	// format, zoneKey, segment:value, options
-	_bsa.init('fancybar', 'CKYDL2JN', 'placement:demo');
-}
-})();
-</script>
-<script>
-(function(){
-	if(typeof _bsa !== 'undefined' && _bsa) {
-  		// format, zoneKey, segment:value, options
-  		_bsa.init('stickybox', 'CKYI653J', 'placement:w3layoutscom');
-  	}
-})();
-</script>
-<script type="text/javascript" src="http://services.bilsyndication.com/adv1/?d=353" defer="" async=""></script><script> var vitag = vitag || {};vitag.gdprShowConsentTool=false;vitag.outStreamConfig = {type: "slider", position: "left" };</script>
 
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125810435-1"></script>
+<script type="text/javascript" src="http://services.bilsyndication.com/adv1/?d=353" defer="" async=""></script><script> var vitag = vitag || {};vitag.gdprShowConsentTool=false;vitag.outStreamConfig = {type: "slider", position: "left" };</script>
 
 <body>
 <!-- //header -->
@@ -87,7 +62,7 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 				<li class="mr-lg-4 mr-2"><a href="{{url('aboutdelipack')}}">About Us</a></li>
 				<li class="mr-lg-4 mr-2"><a href="{{url('services')}}">Services</a></li>
 				<li class="mr-lg-4 mr-2"><a href="{{url('delipackpartners')}}">Our Partners</a></li>
-				<li class="mr-lg-4 mr-2"><a href="{{url('contactdelipack')}}">Contact Us</a></li>
+				<li class="mr-lg-4 mr-2"><a href="#customercall">Contact Us</a></li>
 				<!-- <li class="mr-lg-4 mr-2"><a href="#app">App Download</a></li> -->
 			</ul>
 		</nav>
@@ -139,7 +114,7 @@ if(typeof _bsa !== 'undefined' && _bsa) {
 			</div>
 			<div class="col-lg-4 col-md-6 mt-lg-0 mt-sm-5 mt-4 footer_middle">
 				<h3 class="mb-sm-4 mb-3">Download Apps</h3>
-				<p>Nulla felis tortor, rutrum eget feugiat enon, blandit tellus. Nam pharetra ipsum ligula volutpat, a finibus sit amet mi ultrices.</p>
+				<p>Customers can download the delipack app from App Store and Google play respectively to enjoy exciting offers</p>
 				<ul class="mt-3">
 					<li class="mr-3"><a href="#">Android Users <span class="fa ml-1 fa-android"></span></a></li>
 					<li><a href="#">IOS Users <span class="fa ml-1 fa-apple"></span></a></li>
