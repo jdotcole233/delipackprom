@@ -80,6 +80,11 @@
 	width: 700px;
 	height: inherit;
 	padding: 30px;
+	
+}
+
+.dedicatedsub {
+	display: flex;
 	justify-content: center;
 	align-items: center;
 }

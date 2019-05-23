@@ -39,7 +39,7 @@
 
 <!-- Dedicated team -->
 <section class="dedicatesection">
-    <div>
+    <div class="dedicatedsub">
         <img src="{{asset('images/dedicated_team.png')}}" width="50%" alt="">
     </div>
     <div>
