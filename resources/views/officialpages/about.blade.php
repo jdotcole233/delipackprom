@@ -8,15 +8,14 @@
     </div>
     <div>
         <h1>Our Aim</h1> <br>
-        <p>We are exposed to exciting opportunities if we can get the most done in as little time as possible. Whatever your Business is  (home, office or hanging out) do more by delegating some of your errands to Ghana’s most reliable riders. The world today is fueled by amazing cutting edge technologies. DeliPack has seen the gap between customers and delivery companies, therefore Delipack is giving you the CUSTOMER the opportunity to reach several elite riders who work around the clock to get your services satisfied with little or no overhead of stress. With just a few taps on your phone, you can find the closest reliable delivery guy to serve your purpose.
+        <p>We get exposed to exciting opportunities once we can get the most done in as little time as possible. Whatever your business is (home, office or hanging out), do more by delegating some of your errands to Ghana’s most reliable riders. The world is currently fueled by amazing cutting-edge technologies. DeliPack has seen the gap between customers and delivery companies, therefore DeliPack is giving you the CUSTOMER the opportunity to reach several elite riders who work around the clock to get you satisfied with little or no stress. With just a few taps on your phone, you can find the closest reliable delivery guy to deliver whatever you want.
         </p> <br>
     </div>
     
 </section>
 <section class="introsecondsection">
     <div>
-        <p>As we say “ Do what you do so well that they will want to see it again and bring their friends “. To delivery companies, accountability is of the essence to customers. Our research has shown that customer is willing to trust their services to riders if they don’t have to deal with individual riders. Building a strong brand leaves a mark with all your customers and in return draws in lots of profit to your organization.  Delipack provides you with a platform to manage activities in your company and also communicate with a wider audience who would want to procure your service. We leave the details of your experience after you join Delipack. 
-        Our aim is to bridge the gap between you and your customers.</p> 
+        <p>There is a saying that goes, “Do what you do so well that they will want to see it again and bring their friends “. To delivery companies, accountability is of the essence to customers. Our research has shown that customers are willing to trust their services to riders if they do not have to deal with individual riders. Building a strong brand leaves a mark with all your customers and in return draws in loads of profit to your organization. DeliPack provides you with a platform to manage activities in your company and also communicate with a wider audience who would want to procure your service. We leave the details of your experience after you join Delipack. Our core aim is to bridge the gap between you and your customers.</p> 
     </div>
 </section>
 
@@ -24,7 +23,7 @@
 <section class="whysection">
     <div>
         <h1>Why us ?</h1>
-        <p>Dedicated is how we describe ourselves. A bunch of technology enthusiasts and marketing strategists with the aim of adding value to every delivery business ( Big or Small )in Ghana. Working with us will be the most amazing journey you can embark on as a business person. We dream of revolutionizing logistics and transportation in Ghana, how else than to start with the most basic needs as errands. The average Ghanaian can do more for themselves if the stress of errands to and fro can be taken off them. You the customers (delivery companies and clients)  are the most important stakeholders of DeliPack, we are dedicated to serving you and serving you well.</p>
+        <p>Dedicated is what we are. A group of technology enthusiasts and marketing strategists that aim to add value to every delivery business (Big or Small) in Ghana. Working with us will be the most amazing journey you can embark on as a businessperson. We dream of revolutionizing logistics and transportation in Ghana. How else can we do this than to start with the most basic needs: errands. The average Ghanaian can do more for themselves if the stress of going to and fro can be taken off them. You the customers (delivery companies and clients) are the most important stakeholders of DeliPack and we are dedicated to serving you and serving you well.</p>
     </div>
     <div>
         <img src="{{asset('images/managed.png')}}" width="100%" alt="">

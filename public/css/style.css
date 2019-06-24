@@ -365,8 +365,9 @@ li > a:only-child:after { content: ''; }
 
 /*-- banner --*/
 .banner {
-    background: url(../images/bgg.jpg) no-repeat center;
-    background-size: cover;
+    background: url(../images/bg_man.jpg) no-repeat top center;
+	background-size: cover;
+	height: 30%;
 	position: relative;
 }
 .banner:before{

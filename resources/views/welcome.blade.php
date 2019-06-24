@@ -8,8 +8,8 @@
 						<div class="col-lg-12">
 							<h6 class="mt-4">Be your own boss</h6>
 							<h4 class="mt-3">Become a trusted delivery service in  Your City With DeliPack</h4>
-							<p class="mt-sm-4 mt-3">We are providing you with a vibrant and state of the art platform to make your product/service readily available to a wider audience. No need to worry about advertisement. DeliPack is aimed at making your company known to every busy/idle person in Ghana.</p>
-							<p class="mt-sm-4 mt-3">Why worry about paper work, when delipack is providing you with a safe, secure and easy to use platform. In just some few simple steps, delipack is giving you the power to control your business from the comfort of your home or office.</p>
+							<p class="mt-sm-4 mt-3">We provide you with a vibrant and state of the art platform to make your product/service readily available to a wide audience. No need to worry about advertisement. DeliPack aims at making your company known to every busy/idle person in Ghana.</p>
+							<p class="mt-sm-4 mt-3">Why worry about paperwork, when DeliPack can provide you with a safe, secure and user – friendly platform. In few simple steps, DeliPack gives you the power to control your business from the comfort of your home or office.</p>
 						</div>
 				</div>
 		</div>
