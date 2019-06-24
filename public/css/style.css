@@ -687,6 +687,8 @@ a.move-top span {
 	.about-grids h6 {
 		font-size: 16px;
 	}
+	
+	
 }
 
 @media(max-width:991px) {
@@ -859,6 +861,7 @@ a.move-top span {
 	.customer-call h4 {
 		font-size: 18px;
 	}
+	
 }
 @media(max-width:320px) {
 	

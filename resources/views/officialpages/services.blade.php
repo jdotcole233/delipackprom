@@ -4,90 +4,126 @@
 <section class="delipackservices">
 
         <div class="container-fluid bg-info">
-            <div class="row topBar" style="height:90px; padding:10px;">
-                <h2 class="avail_txt">Available on Google Playstore</h2>
-                <button class="btn btn-outline-secondary">Download</button>
+            <div class="row topBar about-grids" style="height:90px; padding:10px;">
+                <h6 class="avail_txt">Available on Google Playstore</h6>
+                <button class="btn btn-primary">Download</button>
             </div>
         </div>
 
-        <div class="container-fluid service-layer-2">
-            <div class="row">
-                <h2>Finding a delivery guy has never been this easy!!</h2>
+        <div class="container-fluid about-grids service-layer-2">
+            <div class="row" style="text-align:center">
+                <h6>Finding a delivery guy has never been this easy!!</h6>
             </div>
-            <div class="row mt-4 mb-3">
+            <div class="row mt-4 mb-3" style="text-align:center">
                 <h3>Request an errand service and the closest delivery guy will pick up and delivery safely for you.</h3>
             </div>
-            <div class="row layer-3">
-              <h1>DeliPack works in 3 simple steps</h1>
+            <div class="row layer-3" style="text-align:center">
+              <h4>DeliPack works in 3 simple steps</h4>
             </div>
         </div>
         <div class="container-fluid">
           <div class="container">
-            <div class="row image-title">
-              <div class="col-md-4 d-flex justify-content-center">
-                <h2>1. Request</h2>
-              </div>
-              <div class="col-md-4 d-flex justify-content-center">
-                <h2>2. Select payment</h2>
-              </div>
-              <div class="col-md-4 d-flex justify-content-center">
-                <h2>3.Follow your errand</h2>
-              </div>
-            </div>
+              <div class="row about-grids">
+                  <div class="col-md-4">
+                        <div class="row">
+                           <div class="col-md 12 d-flex justify-content-center">
+                                <h6>1. Request</h6>
+                           </div>
+                        </div>
 
-            <!-- Start of images div -->
-            <div class="row image-image">
-              <div class="col-md-4 d-flex justify-content-center">
-                  <img src="{{asset('images/search_bg.png')}}" alt="">
-            </div>
-              <div class="col-md-4 d-flex justify-content-center">
-              <img src="{{asset('images/pay_bg.png')}}" alt="">
-            </div>
-              <div class="col-md-4 d-flex justify-content-center">
-              <img src="{{asset('images/track_bg.png')}}" alt="">
-            </div>
-            </div>
-            <!-- End of image div -->
+                        <div class="row" style="padding:60px">
+                            <div class="col-md-12">
+                                <img width="100%" height="100%" src="{{asset('images/search_bg.png')}}" alt="">
+                            </div>
+                        </div>
 
-            <!-- Start of image description -->
-            <div class="row image-desc">
-              <div class="col-md-4 d-flex justify-content-center">
-                <h3>Input your desired pick up  and delivery locations. Allow delipack to find the best rider to . suit your need</h3>
-              </div>
-              <div class="col-md-4 d-flex justify-content-center">
-                <h3>Choose a preferred mode of payment</h3>
-              </div>
-              <div class="col-md-4 d-flex justify-content-center">
-                <h3>Keep an eye on your errand till delivered</h3>
-              </div>
-            </div>
-            <!-- End of description -->
+                        <div class="row" style="text-align:center; padding:10px;">
+                            <div class="col-md-12">
+                              <p>Input your desired pick up  and delivery locations. Allow delipack to find the best rider to . suit your need</p>
+                            </div>
+                        </div>
+                  </div>
+
+
+                  <div class="col-md-4">
+                        <div class="row">
+                           <div class="col-md 12 d-flex justify-content-center">
+                                <h6>2. Select payment</h6>
+                           </div>
+                        </div>
+
+                        <div class="row" style="padding:60px">
+                            <div class="col-md-12">
+                                <img width="100%" height="100%" src="{{asset('images/pay_bg.png')}}" alt="">
+                            </div>
+                        </div>
+
+                        <div class="row" style="text-align:center; padding:10px;">
+                            <div class="col-md-12">
+                              <p>Choose a preferred mode of payment.Pay for your errand with little or no hustle</p>
+                            </div>
+                        </div>
+                  </div>
+
+
+                  <div class="col-md-4">
+                        <div class="row">
+                           <div class="col-md 12 d-flex justify-content-center">
+                                <h6>3. Follow your errand</h6>
+                           </div>
+                        </div>
+
+                        <div class="row" style="padding:60px">
+                            <div class="col-md-12">
+                                <img width="100%" height="100%" src="{{asset('images/track_bg.png')}}" alt="">
+                            </div>
+                        </div>
+
+                        <div class="row" style="text-align:center; padding:10px;">
+                            <div class="col-md-12">
+                              <p>Keep an eye on your errand till delivered. Follow your rider as he/she delivers your request service</p>
+                            </div>
+                        </div>
+                  </div>
+
+
+
+              </div>  
           </div>
         </div>
+
+
+
+
         <div class="container-fluid bg-info">
-            <div class="row d-flex justify-content-center" style="height:90px; padding:10px;">
-              <h2 class="avail_txt">Don't be left out if you are a delivery company</h2>
-                <button class="btn btn-outline-secondary">Request</button>
+            <div class="row topBar about-grids" style="height:100px; padding:10px; text-align:center;">
+              <h6 class="avail_txt">Are you a delivery company? Don't be left out </h6>
+                <button class="btn btn-primary">Request</button>
             </div>
         </div>
         <div class="container-fluid" style="background-color:#f6f6f6;">
           <div class="row">
-            <div class="col-md-6 d-flex justify-content-center">
-              <img height="90%" src="{{asset('images/laptop.jpeg')}}" alt="">
-            </div>
-            <div class="col-md-6">
-            <section class="services-white py-5" >
-                <div class="contanier more_than_text">
+            
+            <div class="col-md-6 " style="padding:50px;">
+                <div class="contanier about-grids more_than_text">
                   <div class="row d-flex justify-content-center">
-                    <h2>More Than Just an App</h2>
+                    <h4>More Than Just an App</h4>
                   </div>
-                  <div class="row d-flex justify-content-center">
-                    <h3>We are connecting customers to the best local delivery guys.</h3>
+                  <div class="row d-flex justify-content-center" style="text-align:center">
+                    <p>We are connecting customers to the best local delivery guys.</p>
                   </div>
-                  <div class="row d-flex justify-content-center">
-                  <h3>We are taking away the stress and hustle for your errands.</h3>
+                  <div class="row d-flex justify-content-center" style="text-align:center">
+                  <p>We are taking away the stress and hustle for your errands.</p>
                   </div>
                 </div>
+                <div class="col-md-12 ">
+                  <img  src="{{asset('images/laptop.jpeg')}}" alt="">
+                </div>
+            </div>
+
+
+            <div class="col-md-6">
+            <section class="services-white py-5" >
                 <div class="container py-lg-5 py-3">
                   <div class="row service-grid-grids text-center">
                     <div class="col-lg-4 col-md-6 service-white-grid service-grid1">

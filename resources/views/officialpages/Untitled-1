@@ -1,0 +1,41 @@
+ <!-- Start of image description -->
+            <div class="row image-desc">
+              <div class="col-md-4 d-flex justify-content-center">
+                <h3>Input your desired pick up  and delivery locations. Allow delipack to find the best rider to . suit your need</h3>
+              </div>
+              <div class="col-md-4 d-flex justify-content-center">
+                <h3>Choose a preferred mode of payment</h3>
+              </div>
+              <div class="col-md-4 d-flex justify-content-center">
+                <h3>Keep an eye on your errand till delivered</h3>
+              </div>
+            </div>
+<!-- End of description -->
+
+
+<!-- Start of images div -->
+            <div class="row image-image">
+              <div class="col-md-4 d-flex justify-content-center">
+                  <img src="{{asset('images/search_bg.png')}}" alt="">
+            </div>
+              <div class="col-md-4 d-flex justify-content-center">
+              <img src="{{asset('images/pay_bg.png')}}" alt="">
+            </div>
+              <div class="col-md-4 d-flex justify-content-center">
+              <img src="{{asset('images/track_bg.png')}}" alt="">
+            </div>
+            </div>
+<!-- End of image div -->
+
+
+ <div class="row image-title">
+              <div class="col-md-4 d-flex justify-content-center">
+                <h2>1. Request</h2>
+              </div>
+              <div class="col-md-4 d-flex justify-content-center">
+                <h2>2. Select payment</h2>
+              </div>
+              <div class="col-md-4 d-flex justify-content-center">
+                <h2>3.Follow your errand</h2>
+              </div>
+            </div>
