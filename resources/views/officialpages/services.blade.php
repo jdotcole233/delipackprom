@@ -2,12 +2,14 @@
 @section('content')
 
 <section class="delipackservices">
+
         <div class="container-fluid bg-info">
             <div class="row topBar" style="height:90px; padding:10px;">
                 <h2 class="avail_txt">Available on Google Playstore</h2>
                 <button class="btn btn-outline-secondary">Download</button>
             </div>
         </div>
+
         <div class="container-fluid service-layer-2">
             <div class="row">
                 <h2>Finding a delivery guy has never been this easy!!</h2>

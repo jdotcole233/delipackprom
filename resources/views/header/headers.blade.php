@@ -42,8 +42,8 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 		<nav class="py-sm-4 py-3 d-lg-flex">
 			<div id="logo">
 				<h1> <a href="index.html"><span>
-                    <img src="images/assets/deli_s.png" alt="Delivery Package Logo" width="10%" height="10%" >
-                </span> DeliPack</a></h1>
+                    <img src="images/assets/deli_s.png" alt="Delivery Package Logo" width="20%" height="10%" >
+                <!-- </span> DeliPack</a></h1> -->
 			</div>
 			<label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
 			<input type="checkbox" id="drop" />

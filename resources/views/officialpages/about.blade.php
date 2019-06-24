@@ -43,7 +43,7 @@
     </div>
     <div>
         <h1>Dedicated team</h1>
-        <p>In relation to our aim to bring your business to the customers and make life easier for them, we have a dedicated team of marketers and developers who work around the clock to ensure your business is made available to every household in Ghana. </p>
+        <p>In relation to our aim, by bringing your business to the customers and making life easier for them, we have a dedicated team of marketers and developers who work around the clock to ensure your business is made available to every household in Ghana.</p>
     </div>
 </section>
 @endsection
