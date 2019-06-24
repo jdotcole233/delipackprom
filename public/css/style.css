@@ -867,18 +867,3 @@ a.move-top span {
 
 
 
-.deliabout{
-	display: flex;
-	flex-flow: wrap;
-	/* align-items:center; */
-	/* align-items: center; */
-	justify-self: center; 
-	justify-content: center;
-
-}
-
-.deliabout > div {
-	/* border:1px solid black; */
-	width: 600px;
-	height: inherit;
-}
