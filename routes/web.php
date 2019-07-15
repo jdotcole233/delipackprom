@@ -21,3 +21,4 @@ Route::get('contactdelipack', 'navigationController@contact');
 Route::get('services', 'navigationController@services');
 
 Route::post('/sendClientRequest','navigationController@clientRequest');
+Route::get('/delipack_privacy','navigationController@delipackprivacy');

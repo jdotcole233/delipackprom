@@ -31,4 +31,9 @@ class navigationController extends Controller
         $mail_feed = Mail::to('support@delivpack.com')->send(new CustomerRequest($request->company_name, $request->phonenumber, $request->location, $message_send, $request->email));
         return response()->json($mail_feed);
     }
+
+
+    public function delipackprivacy(){
+        return view('officialpages.privacy');
+    }
 }

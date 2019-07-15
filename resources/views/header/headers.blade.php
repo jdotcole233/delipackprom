@@ -107,6 +107,7 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 				<p> <span class="fa mr-1 fa-map-marker"></span> Hse No. 11, Agbogba. Accra- Ghana </p>
 				<p> <span class="fa mr-1 fa-envelope"></span> <a href="mailto:info@example.com">support@delivpack.com</a> </p>
 				<p> <span class="fa mr-1 fa-phone"></span> +233 503 848404 </p>
+			<p><a href="{{url('/delipack_privacy')}}">privacy</a></p>
 			</div>
 			<div class="col-lg-4 col-md-6 mt-lg-0 mt-sm-5 mt-4 footer_middle">
 				<h3 class="mb-sm-4 mb-3">Download Apps</h3>
