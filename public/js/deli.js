@@ -78,7 +78,19 @@ $(document).ready(function(){
                 )
             },
             error: function(error){
-                console.log(error + "back");
+                $('#requestMessage').css('display', 'block');
+                $('#requestMessageSpinner').css('display', 'none');
+                company_name.prop('readonly', false);
+                phone_number.prop('readonly', false);
+                location.prop('readonly', false);
+                email.prop('readonly', false);
+                $('#message').prop('readonly', false);
+                $(this).prop('disable', false);
+                Swal.fire(
+                    'Email Sent!',
+                    'We will get back to you as soon as possible',
+                    'danger'
+                )
             }
         });
     });
