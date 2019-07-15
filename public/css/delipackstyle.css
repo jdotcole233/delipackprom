@@ -336,3 +336,12 @@
 	height: 500px;
 	border: 1px solid black;
 }
+
+#requestModalContent {
+	/* background-color: #191919; */
+}
+
+#exampleModalLongTitle{
+	font-size: 30px;
+	text-align: center;
+}

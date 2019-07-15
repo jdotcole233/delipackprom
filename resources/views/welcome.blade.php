@@ -3,7 +3,7 @@
 <!-- about -->
 <section class="deliabout py-sm-5 py-4" id="about">
 	<div>
-		<div class="container">
+		<div class="containerr">
 				<div class="about-grids">
 						<div class="col-lg-12">
 							<h6 class="mt-4">Be your own boss</h6>
@@ -15,34 +15,30 @@
 		</div>
 	</div>
 
-
 	<div id="requestservice">
-			<div class="container">
-					<div class="about-grids">
-							<div class="padding">
-								<form action="#" method="post">
-									<h5 class="mb-3">Request our service</h5>
-									<div class="form-style-agile">
-										<input placeholder="Name" name="name" type="text" required="">
-										<input placeholder="Phone Number" name="number" type="text" required="">
-										<input placeholder="Source(From)" type="text" required="">
-										<input placeholder="Destination(To)" type="text" required="">
-										<select>
-											<option value="0">Choose Vehicle</option>
-											<option value="1">Vehicle1</option>
-											<option value="2">Vehicle2</option>
-											<option value="3">Vehicle3</option>
-											<option value="3">Vehicle4</option>
-											<option value="3">Vehicle5</option>
-										</select>
-										<!-- <input placeholder="Password" name="password" type="password" required=""> -->
-										<button class="book-btn btn">Book Now</button>
-									</div>
-								</form>
-							</div>
-					</div>
+		<div class="about-grids">
+			<div class="padding">
+				<form id="sendClientRequestForm">
+				  <span id="requestMessage"> <h5>Request our service </h5></span>
+        		  <img id="requestMessageSpinner" style="display:none;" src="{{asset('images/ajaxspinner.gif')}}" width="20%" alt="">
+				<meta name="csrf-token" content="{{csrf_token()}}">
+				<div class="form-style-agile">
+					<input placeholder="Company Name" id="company_name" name="company_name" type="text" required="">
+					<input placeholder="Phone Number" id="phone_number" name="phonenumber" type="text" required="">
+					<input placeholder="Location" id="location" name="location" type="text" required="">
+					<input placeholder="Email" id="email" name="email" type="text" required="">
+					<p class="text-white" for="Message">Request Message (optional)</p>
+					<textarea placeholder="Message" id="message" name="message" rows="6" type="text" class="form-control"> 
+					</textarea>
+					<br>
+					<!-- <input placeholder="Password" name="password" type="password" required=""> -->
+					<button class="book-btn btn sendClientRequestBtn"> Request Now</button>
+				</div>
+				</form>
 			</div>
+		</div>
 	</div>
+
 	<div>
 		<img src="images/laptop1.jpeg" width="100%" alt="" class="img-fluid"/>
 	</div>
@@ -228,8 +224,8 @@
 					<a href="#" class="mr-3">
 						<img src="images/comingsoonapple.png" width="30%" alt="">
 					</a>
-					<a href="#">
-						<img src="images/android-coming-soon.png" width="30%" alt="">
+					 <a href="http://bit.ly/2XJ3Unu">
+						<img src="{{asset('images/googleplayicon.png')}}" width="40%" alt="">
 					</a>
 					<div class="clearfix"> </div>
 				</div>

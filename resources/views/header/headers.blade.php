@@ -25,6 +25,12 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 	<!-- google fonts -->
 	<link href="http://fonts.googleapis.com/css?family=Rosario:400,400i,700,700i" rel="stylesheet">
 	<!-- //google fonts -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+	<style>
+	#appleclick{
+		cursor: pointer;
+	}
+	</style>
 	
 </head>
 <body>
@@ -106,7 +112,7 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 				<h3 class="mb-sm-4 mb-3">Download Apps</h3>
 				<p>Customers can download the delipack app from App Store and Google play respectively to enjoy exciting offers</p>
 				<ul class="mt-3">
-					<li class="mr-3"><a href="#">Android Users <span class="fa ml-1 fa-android"></span></a></li>
+					<li class="mr-3"><a href="http://bit.ly/2XJ3Unu">Android Users <span class="fa ml-1 fa-android"></span></a></li>
 					<li><a href="#">IOS Users <span class="fa ml-1 fa-apple"></span></a></li>
 				</ul>
 				<div class="socialhandles">
@@ -128,6 +134,9 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 	</div>
 </footer>
 <!-- //footer -->
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+<script src="{{asset('js/deli.js')}}"></script>
 </body>
 </html>

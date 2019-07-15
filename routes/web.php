@@ -19,3 +19,5 @@ Route::get('aboutdelipack', 'navigationController@about');
 Route::get('delipackpartners', 'navigationController@partners');
 Route::get('contactdelipack', 'navigationController@contact');
 Route::get('services', 'navigationController@services');
+
+Route::post('/sendClientRequest','navigationController@clientRequest');
