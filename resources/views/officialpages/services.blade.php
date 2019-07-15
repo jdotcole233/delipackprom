@@ -15,7 +15,7 @@
                 <h6>Finding a delivery guy has never been this easy!!</h6>
             </div>
             <div class="row mt-4 mb-3" style="text-align:center">
-                <h3>Request an errand service and the closest delivery guy will pick up and delivery safely for you.</h3>
+                <h3>Request an errand service and the closest delivery guy will pick up and deliver safely for you.</h3>
             </div>
             <div class="row layer-3" style="text-align:center">
               <h4>DeliPack works in 3 simple steps</h4>
@@ -39,7 +39,7 @@
 
                         <div class="row" style="text-align:center; padding:10px;">
                             <div class="col-md-12">
-                              <p>Input your desired pick up  and delivery locations. Allow delipack to find the best rider to . suit your need</p>
+                              <p>Input your desired pick up  and delivery locations. Allow delipack to find the best rider to suit your need</p>
                             </div>
                         </div>
                   </div>
@@ -81,7 +81,7 @@
 
                         <div class="row" style="text-align:center; padding:10px;">
                             <div class="col-md-12">
-                              <p>Keep an eye on your errand till delivered. Follow your rider as he/she delivers your request service</p>
+                              <p>Keep an eye on your errand till delivered. Follow your rider as he/she delivers your requested service</p>
                             </div>
                         </div>
                   </div>
@@ -110,7 +110,7 @@
                     <h4>More Than Just an App</h4>
                   </div>
                   <div class="row d-flex justify-content-center" style="text-align:center">
-                    <p>We are connecting customers to the best local delivery guys.</p>
+                    <p>We are connecting customers to the best local delivery companies.</p>
                   </div>
                   <div class="row d-flex justify-content-center" style="text-align:center">
                   <p>We are taking away the stress and hustle for your errands.</p>
@@ -124,7 +124,7 @@
 
             <div class="col-md-6">
             <section class="services-white py-5" >
-                <div class="container py-lg-5 py-3">
+                <div class="containerr py-lg-5 py-3">
                   <div class="row service-grid-grids text-center">
                     <div class="col-lg-4 col-md-6 service-white-grid service-grid1">
                       <div class="service-white-icon">
