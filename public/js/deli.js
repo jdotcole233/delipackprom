@@ -13,6 +13,30 @@ $(document).ready(function(){
     });
 
 
+    // setInterval(companyNames, 5000);
+    companyNames();
+    function companyNames(){
+        $('.partnerslogsdisplay').html("");
+
+        $.ajax({
+            method: 'GET',
+            url: 'http://delipackport.com/api/getcompanylist',
+            success: function(data){
+                $.each(data, function(i, v){
+                    if (v.company_logo_path != 'delipack1.png'){
+                        let logoDisplay = `<div> <img src="http://superuser.delipackport.com/company_logos/${v.company_logo_path}" /></div>`;
+                        $('.partnerslogsdisplay').append(logoDisplay);
+                    }
+                     console.log(v.company_logo_path)
+                });
+            },
+            error: function(error){
+                console.log(error);
+            }
+        });
+    }
+
+
     $('.sendClientRequestBtn').click(function(e){
         e.preventDefault();
         let company_name = $('#company_name');

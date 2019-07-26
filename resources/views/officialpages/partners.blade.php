@@ -12,44 +12,7 @@
     </section>
 
     <section class="partnerslogsdisplay">
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <!-- End of first row -->
-             <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <!-- End of second row -->
-              <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
-            <div>
-                <img src="{{asset('images/corevalue.png')}}" alt="">
-            </div>
+            
     </section>
 </section>
 
