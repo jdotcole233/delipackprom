@@ -136,36 +136,16 @@
 <!---728x90--->
 
 <!-- tarrifs -->
-<!-- <section class="tarrifs py-5" id="tarrifs"> -->
-<!-- <div class="container py-md-5">
-		<div class="row tarrifs-grid">
-			<div class="col-lg-4 col-md-6 text-center">
-				<img src="images/taxi1.jpg" alt="" class="img-fluid"/>
-				<div class="tarrif-info">
-					<h4 class="my-3">Economy Class</h4>
-					<p class="para_vl">Nam arcu mauris, tincidunt sed convallis non, egestas ut lacus. Cras sapien urna, malesuada ut varius.</p>
-					<h5 class="mt-sm-3 mt-2">$16/Km</h5>
-				</div>		
-			</div>		
-			<div class="col-lg-4 col-md-6 text-center">
-				<img src="images/taxi2.jpg" alt="" class="img-fluid"/>
-				<div class="tarrif-info">
-					<h4 class="my-3">Standard Class</h4>
-					<p class="para_vl">Nam arcu mauris, tincidunt sed convallis non, egestas ut lacus. Cras sapien urna, malesuada ut varius.</p>
-					<h5 class="mt-sm-3 mt-2">$20/Km</h5>
-				</div>		
-			</div>		
-			<div class="col-lg-4 col-md-6 text-center mt-lg-0 mt-5">
-				<img src="images/taxi1.jpg" alt="" class="img-fluid"/>
-				<div class="tarrif-info">
-					<h4 class="my-3">Business Class</h4>
-					<p class="para_vl">Nam arcu mauris, tincidunt sed convallis non, egestas ut lacus. Cras sapien urna, malesuada ut varius.</p>
-					<h5 class="mt-sm-3 mt-2">$25/Km</h5>
-				</div>		
-			</div>		
-		</div>		
-	</div>		 -->
-<!-- </section> -->
+{{-- <section class="customer-logos slider"> 
+			
+</section> --}}
+<div class="containerr mb-4">
+  <h2>Our  Partners/ Our Clients</h2>
+   <section class="customer-logos slider">
+      
+   </section>
+</div>
+
 <!-- //tarrifs -->
 
 <!-- stats -->

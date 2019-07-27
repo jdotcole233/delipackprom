@@ -8,6 +8,8 @@ use App\Mail\CustomerRequest;
 
 class navigationController extends Controller
 {
+
+    
     public function about(){
         return view('officialpages.about');
     }
