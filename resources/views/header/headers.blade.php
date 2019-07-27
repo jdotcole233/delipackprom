@@ -58,7 +58,7 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 				<li class="mr-lg-4 mr-2"><a href="{{url('aboutdelipack')}}">About Us</a></li>
 				<li class="mr-lg-4 mr-2"><a href="{{url('services')}}">Services</a></li>
 				<li class="mr-lg-4 mr-2"><a href="{{url('delipackpartners')}}">Our Partners</a></li>
-				<li class="mr-lg-4 mr-2"><a href="#customercall">Contact Us</a></li>
+				<li class="mr-lg-4 mr-2"><a id="contactnav" href="#customercall">Contact Us</a></li>
 				<!-- <li class="mr-lg-4 mr-2"><a href="#app">App Download</a></li> -->
 			</ul>
 		</nav>
