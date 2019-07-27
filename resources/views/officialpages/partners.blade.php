@@ -7,7 +7,7 @@
             <h1>Our Partners</h1>
         </div>
         <div>
-          <p>Most of our partners are the elite and trusted brands</p>    
+          <p>Our partners are the elite and trusted brands</p>    
         </div>    
     </section>
 
