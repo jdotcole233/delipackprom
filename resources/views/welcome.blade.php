@@ -140,7 +140,7 @@
 			
 </section> --}}
 <div class="containerr mb-4">
-  <h2>Our  Partners/ Our Clients</h2>
+  <h2 class="text-center">Our  Partners/ Our Clients</h2>
    <section class="customer-logos slider">
       
    </section>
