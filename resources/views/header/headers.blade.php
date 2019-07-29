@@ -23,7 +23,7 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 	<!-- //css files -->
 	
 	<!-- google fonts -->
-	<link href="http://fonts.googleapis.com/css?family=Rosario:400,400i,700,700i" rel="stylesheet">
+	{{-- <link href="http://fonts.googleapis.com/css?family=Rosario:400,400i,700,700i" rel="stylesheet"> --}}
 	<!-- //google fonts -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 	<style>
