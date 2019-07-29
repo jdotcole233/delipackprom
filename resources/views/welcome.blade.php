@@ -138,7 +138,7 @@
 <!-- tarrifs -->
 			
 </section> -->
-<div class="container visible-sm visible-xs mb-4">
+<div class="container d-none d-sm-block d-md-none mb-4">
   <h2 class="text-center visible-sm visible-xs">Our  Partners/ Our Clients</h2>
    <section class="customer-logos slider visible-sm visible-xs">
       @foreach ($company_names as $company_name)
