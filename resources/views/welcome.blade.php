@@ -137,8 +137,8 @@
 
 <!-- tarrifs -->
 			
-</section> -->
-<div class="container d-none d-sm-block d-md-none mb-4">
+</section> 
+<div id="customer-logos-section" class="container d-none d-sm-block d-md-none mb-4">
   <h2 class="text-center d-none d-sm-block d-md-none">Our  Partners/ Our Clients</h2>
    <section class="customer-logos slider d-none d-sm-block d-md-none">
       @foreach ($company_names as $company_name)
@@ -202,7 +202,7 @@
 	<div class="container py-sm-3">
 		<!--/mobile-app -->
 		<div class="row inner-sec-wthree-agileits">
-			<div class="col-lg-7 pt-lg-5 app-info text-left">
+			<div class="col-lg-7 pt-lg-5 app-info text-left col-sm-12">
 				<h3 class="tittle mob pb-sm-4">Download the Mobile App for free <br>Get More Exciting Offers</h3>
 				<p class="para_vl">Customers can download the delipack app from App Store and Google play respectively to enjoy exciting offers</p>
 				<div class="app-devices">
@@ -215,7 +215,7 @@
 					<div class="clearfix"> </div>
 				</div>
 			</div>
-			<div class="col-lg-3 offset-lg-2 col-md-4 col-sm-6 col-8 app-img text-right">
+			<div class="d-flex col-lg-3 offset-lg-2 col-md-4 col-sm-12 justify-content-sm-center col-8 app-img text-right">
 				<img src="images/phone.png" width="100%" alt=" " class="img-fluid">
 			</div>
 			<!--//mobile-app -->

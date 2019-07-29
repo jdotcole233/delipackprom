@@ -19,4 +19,11 @@ $(document).ready(function () {
             }
         }]
     });
+
+    // if(window.innerWidth > 768){
+    //     $('#customer-logos-section').css('display','none');
+    // }else{
+    //     $('#customer-logos-section').css('display', 'block');
+    // }
+
 });
