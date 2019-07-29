@@ -9,7 +9,7 @@
 
 <link rel="icon" type="image/png" sizes="16x16" href="images/assets/favicon_io/favicon-16x16.png">
 <title>Package Delivery - DeliPack</title>
-
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
 <meta name="keywords" content="Become your own boss, delipack, DeliPack, delivpack, DelivPack, Quick pick up and delivery,
