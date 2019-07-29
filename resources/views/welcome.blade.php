@@ -215,7 +215,7 @@
 					<div class="clearfix"> </div>
 				</div>
 			</div>
-			<div class="d-flex col-lg-3 offset-lg-2 col-md-4 col-sm-6 justify-content-xs-center col-8 app-img text-right">
+			<div class="col-lg-3 offset-lg-2 col-md-4 col-sm-6 col-8 app-img text-right">
 				<img src="images/phone.png" width="100%" alt=" " class="img-fluid">
 			</div>
 			<!--//mobile-app -->
