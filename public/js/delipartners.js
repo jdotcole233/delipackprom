@@ -7,7 +7,7 @@ if (location.pathname != '/') {
 }
 
 
-companyNames();
+//companyNames();
 
 function companyNames() {
     let logoDisplays = "";

@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Mail;
 use App\Mail\CustomerRequest;
+use App\Company;
 
 class navigationController extends Controller
 {
@@ -20,7 +21,8 @@ class navigationController extends Controller
 
 
      public function partners(){
-        return view('officialpages.partners');
+        $company_names = Company::all();
+        return view('officialpages.partners', compact('company_names'));
     }
 
 

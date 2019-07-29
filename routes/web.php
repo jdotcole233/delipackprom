@@ -1,5 +1,5 @@
 <?php
-
+use App\Company;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -12,7 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    $company_names = Company::all()->value('company_logo_path');
+    return view('welcome', compact('company_names'));
 });
 
 Route::get('aboutdelipack', 'navigationController@about');
