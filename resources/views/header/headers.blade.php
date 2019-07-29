@@ -140,6 +140,7 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
 <script src="{{asset('js/deli.js')}}"></script>
+<script src="{{asset('js/slidedeli.js')}}"></script>
 <!-- <script src="{{asset('js/delipartners.js')}}"></script> -->
 
 </body>
