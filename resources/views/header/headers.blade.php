@@ -23,7 +23,7 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 	<!-- //css files -->
 	
 	<!-- google fonts -->
-	{{-- <link href="http://fonts.googleapis.com/css?family=Rosario:400,400i,700,700i" rel="stylesheet"> --}}
+	<!-- <link href="http://fonts.googleapis.com/css?family=Rosario:400,400i,700,700i" rel="stylesheet"> -->
 	<!-- //google fonts -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 	<style>
@@ -34,7 +34,7 @@ courier service, Ghana motor riders delivery, courier companies, best delivery p
 	
 </head>
 <body>
-<script src='../../../../../../../ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src="../../../../../../../m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+<!-- <script src='../../../../../../../ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src="../../../../../../../m.servedby-buysellads.com/monetization.js" type="text/javascript"></script> -->
 
 <script type="text/javascript" src="http://services.bilsyndication.com/adv1/?d=353" defer="" async=""></script><script> var vitag = vitag || {};vitag.gdprShowConsentTool=false;vitag.outStreamConfig = {type: "slider", position: "left" };</script>
 
