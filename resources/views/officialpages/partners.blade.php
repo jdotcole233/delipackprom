@@ -13,7 +13,7 @@
 
     <section class="partnerslogsdisplay">
             @foreach ($company_names as $company_name)
-                @if($company_name->company_logo_path != "delipack1.png ")
+                @if($company_name->company_logo_path != "delipack1.png")
                     <div> 
                         <img src="http://superuser.delipackport.com/company_logos/{{$company_name->company_logo_path}}" />
                     </div>
