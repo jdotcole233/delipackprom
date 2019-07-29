@@ -139,8 +139,8 @@
 			
 </section> -->
 <div class="container d-none d-sm-block d-md-none mb-4">
-  <h2 class="text-center visible-sm visible-xs">Our  Partners/ Our Clients</h2>
-   <section class="customer-logos slider visible-sm visible-xs">
+  <h2 class="text-center d-none d-sm-block d-md-none">Our  Partners/ Our Clients</h2>
+   <section class="customer-logos slider d-none d-sm-block d-md-none">
       @foreach ($company_names as $company_name)
                 @if($company_name->company_logo_path != "delipack1.png")
                     <div class="slide"> 
