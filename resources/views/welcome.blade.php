@@ -136,15 +136,15 @@
 <!---728x90--->
 
 <!-- tarrifs -->
-{{-- <section class="customer-logos slider"> 
+<!-- <section class="customer-logos slider"> 
 			
-</section> --}}
-{{-- <div class="containerr mb-4">
+</section> -->
+<!-- <div class="containerr mb-4">
   <h2 class="text-center">Our  Partners/ Our Clients</h2>
    <section class="customer-logoss slider">
       
    </section>
-</div> --}}
+</div> -->
 
 <!-- //tarrifs -->
 
