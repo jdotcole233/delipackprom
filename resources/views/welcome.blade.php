@@ -199,7 +199,7 @@
 
 <!--/app-->
 <section class="mobile-app-sec py-5" id="app">
-	<div class="container py-sm-3">
+	<div class="container py-sm-3">	
 		<!--/mobile-app -->
 		<div class="row inner-sec-wthree-agileits">
 			<div class="col-lg-7 pt-lg-5 app-info text-left col-sm-12">
@@ -215,7 +215,7 @@
 					<div class="clearfix"> </div>
 				</div>
 			</div>
-			<div class="d-flex col-lg-3 offset-lg-2 col-md-4 col-sm-12 justify-content-sm-center col-8 app-img text-right">
+			<div class="d-flex col-lg-3 offset-lg-2 col-md-4 col-sm-6 justify-content-xs-center col-8 app-img text-right">
 				<img src="images/phone.png" width="100%" alt=" " class="img-fluid">
 			</div>
 			<!--//mobile-app -->
