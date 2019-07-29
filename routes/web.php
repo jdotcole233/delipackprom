@@ -12,7 +12,7 @@ use App\Company;
 */
 
 Route::get('/', function () {
-    $company_names = Company::all()->value('company_logo_path');
+    $company_names = Company::all();
     return view('welcome', compact('company_names'));
 });
 
